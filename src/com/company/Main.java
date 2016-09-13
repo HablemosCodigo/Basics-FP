@@ -7,5 +7,7 @@ public class Main {
 
         String primerNombre = "Michelle";
 
+        //2.Imprime tu nombre en la consola
+        System.out.println("primerNombre");
     }
 }
